@@ -1,0 +1,8 @@
+body{
+	background: orange;
+}
+
+#taskList li{
+	font-size: 24pt;
+	letter-spacing: 12px;
+}
